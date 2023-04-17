@@ -1,0 +1,26 @@
+body {
+    background-color: #f09838;
+    color: #a03028;
+}
+
+#tabla1 {
+    width: 800px;
+    border-spacing: 0px;
+    background-color: #ffecc0;
+}
+
+.width150 {
+    width: 150px;
+    text-align: center;
+}
+
+.igatiKozep {
+    text-align: center;
+}
+
+#div1 {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    color: #FFECC0;
+}
